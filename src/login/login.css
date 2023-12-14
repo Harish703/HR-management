@@ -1,0 +1,37 @@
+/*---------------------------------------------------------------------------------*/
+
+  
+#table {
+  background-color:rgb(193, 217, 241);
+  width: 300px;
+  padding: 20px;
+  margin: 50px auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+td {
+  padding: 10px;
+}
+
+#in{
+  width: 300px;
+  height: px;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+#but {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #207dbb;
+}
